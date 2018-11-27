@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Marko Petrlic
+name: Marko Petrlić
 
 # Short bio or description (displayed in the header)
 description: C++ Developer from Croatia
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: markopoloparadox
   instagram:
-  linkedin:
+  linkedin: marko-petrlić-674b7110b
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
